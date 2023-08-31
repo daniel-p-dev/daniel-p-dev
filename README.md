@@ -4,7 +4,7 @@
 Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, C#
 
 ## 🔗 Links
 
