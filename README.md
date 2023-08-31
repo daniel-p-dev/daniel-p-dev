@@ -1,7 +1,7 @@
 # Olá, eu sou o Daniel! 👋
 
 ## 🚀 Sobre mim
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Atualmente estou no 2º semestre. Em breve estarei publicando projetos legais aqui no github! 
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! 
 
 ## 🛠 Skills
 HTML, CSS, JavaScript
