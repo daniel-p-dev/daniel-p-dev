@@ -1,4 +1,15 @@
-### Hi there 👋
+# Olá, eu sou o Daniel! 👋
+
+## 🚀 Sobre mim
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília! Atualmente estou no 2º semestre. Em breve estarei publicando projetos legais aqui no github! 
+
+## 🛠 Skills
+HTML, CSS, JavaScript
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 
 <!--
 **daniel-p-dev/daniel-p-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
